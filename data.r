@@ -1,7 +1,7 @@
 
 getwd()
 list.files()
-d <- read.csv("tree_data.csv", TRUE, ",")
+d <- read.csv("id3data.csv", TRUE, ",")
 d
 head(d)
 View(d)
