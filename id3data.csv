@@ -1,0 +1,11 @@
+R_ID <- C(1,2,3,4,5,6,7,8,9,10,11,12,13,14)
+"AGE <- C(""Youth""",youth,m_age,senior,senior,senior,m_age,youth,youth,senior,,,,
+"         ""youth""",m_age,m_age,senior),,,,,,,,,,
+"Income <- c(""High """,High,High,medium,low,low,low,medium,low,medium,medium,,,
+medium,high,medium),,,,,,,,,,,
+"Student <- c(""no""",no,no,no,yes,yes,yes,no,yes,yes,yes,no,yes,no)
+"Credit_rating <- c(""fair""",exclnt,fair,fair,fair,exclnt,exclnt,fair,fair,,,,,
+"                   ""fair""",exclnt,exclnt,fair,exclnt),,,,,,,,,
+"Class_buy Computer <- c(""no""",no,yes,yes,yes,no,yes,no,yes,yes,yes,yes,,
+yes,no),,,,,,,,,,,,
+,,,,,,,,,,,,,
